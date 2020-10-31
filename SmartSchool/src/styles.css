@@ -1,1 +1,16 @@
 @import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    background-color:#333;
+    color:#fff;
+}
+
+tbody{
+    color:#fff!important;
+}
+
+.table-hover tr{
+    color:#b4b3b3 !important;
+}
+
+
